@@ -1,0 +1,63 @@
+B i t s: 8
+m0: æiº$
+m1: æi¸$
+Time: 0:00:00.052069
+Input_size: 403
+
+
+B i t s: 10
+m0: &òØ
+m1: 'òØ
+Time: 0:00:00.426288
+Input_size: 3324
+
+
+B i t s: 12
+m0: 
+m1: ³
+Time: 0:00:00.280713
+Input_size: 2201
+
+
+B i t s: 14
+m0: /·
+m1: /µ
+Time: 0:00:00.418210
+Input_size: 5190
+
+
+B i t s: 16
+m0: z5
+m1: z5
+Time: 0:00:04.145571
+Input_size: 45284
+
+
+B i t s: 18
+m0: £
+m1: £
+Time: 0:00:02.684140
+Input_size: 32174
+
+
+B i t s: 20
+m0: qb8tÕ²
+m1: qf8tÕ²
+Time: 0:00:03.621375
+Input_size: 45664
+
+
+B i t s: 22
+m0: S7ð-ZSJ
+m1: S7ð-ZSÊ
+Time: 0:29:34.554815
+Input_size: 6492016
+
+
+B i t s: 24
+m0: üÖ-
+m1: |Ö-
+Time: 0:48:47.284647
+Input_size: 11898888
+
+
